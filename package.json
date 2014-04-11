@@ -1,0 +1,26 @@
+{
+  "name": "ioctl",
+  "version": "0.0.0",
+  "description": "IOCTL bindings for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luismreis/node-ioctl"
+  },
+  "keywords": [
+    "ioctl",
+    "unix",
+    "device",
+    "io",
+    "hardware"
+  ],
+  "author": "Luis Reis <luis@luismreis.com> (http://luismreis.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luismreis/node-ioctl/issues"
+  },
+  "homepage": "https://github.com/luismreis/node-ioctl"
+}
